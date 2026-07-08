@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 355
+slug  : wasure
+seal  : 5249167f2b096544698c8764c86d520567c82fdec864ad2d9f37ac383aa6a0cc
+prev  : 39506e777f5b97e4115dcec9e4f54a6296f9b603baca536b93f6d1c3895ce8ad
+link  : a079b52f512f6c97dbd5e4b192d6ba18d2c8c2e8d74529454b8a4e1c00a177dc
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
