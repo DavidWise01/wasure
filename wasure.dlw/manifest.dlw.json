@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-WASURE",
+  "name": "忘 WASURE · WSR",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦忘 WASURE · WSR:wasure:524916⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "5249167f2b096544698c8764c86d520567c82fdec864ad2d9f37ac383aa6a0cc",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
